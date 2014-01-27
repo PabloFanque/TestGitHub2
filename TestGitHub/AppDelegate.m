@@ -12,7 +12,8 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // Insert code here to initialize your application
+    // Insert code here to initialize your application change
+    int x = 0;
 }
 
 @end
