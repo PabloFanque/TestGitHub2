@@ -15,6 +15,7 @@
     // Insert code here to initialize your application change
     int x = 0;
     int y = x;
+    int z = y;
 }
 
 @end
